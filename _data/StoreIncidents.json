@@ -43,7 +43,7 @@
 	{
 		"abr": "fog",
 		"price": 300,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "heatwave",
@@ -398,7 +398,7 @@
 	{
 		"abr": "equip",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "randomchildhood",
