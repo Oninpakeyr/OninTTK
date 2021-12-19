@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -23,7 +13,7 @@
 	{
 		"abr": "vomitrain",
 		"price": 650,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "foggyrain",
@@ -101,23 +91,18 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "blight",
-		"price": 700,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "animaltame",
 		"price": 150,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "resourcepodcrash",
-		"price": 300,
+		"abr": "wandererjoins",
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
+		"abr": "resourcepodcrash",
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -137,7 +122,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -201,11 +186,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "party",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "alphabeavers",
 		"price": 600,
 		"karmatype": "Bad"
@@ -222,7 +202,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
@@ -293,12 +273,12 @@
 	{
 		"abr": "trait",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "removetrait",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "genderswap",
@@ -357,7 +337,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -401,9 +381,14 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "use",
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "wear",
@@ -413,7 +398,7 @@
 	{
 		"abr": "equip",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "randomchildhood",
@@ -426,15 +411,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 87
+	"total": 83
 }
